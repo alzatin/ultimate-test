@@ -1,0 +1,20 @@
+{
+    "atomType": "Molecule",
+    "name": "ultimate test",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 639384,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9872367581365667,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1
+}
