@@ -147,6 +147,14 @@
             ]
         },
         {
+            "atomType": "Svg",
+            "name": "Svg",
+            "x": 0.813632441760138,
+            "y": 0.3153153153153153,
+            "uniqueID": 827406,
+            "ioValues": []
+        },
+        {
             "atomType": "CutList",
             "name": "Add To Cutlist",
             "x": 0.4574324324324324,
@@ -171,7 +179,7 @@
             "atomType": "Nest",
             "name": "Nest",
             "x": 0.7920621225194132,
-            "y": 0.5825825825825827,
+            "y": 0.7117117117117118,
             "uniqueID": 467577,
             "ioValues": []
         },
@@ -245,6 +253,13 @@
             "ap2Primary": false,
             "ap1ID": 535786,
             "ap2ID": 467577
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": false,
+            "ap1ID": 535786,
+            "ap2ID": 827406
         },
         {
             "ap1Name": "geometry",
