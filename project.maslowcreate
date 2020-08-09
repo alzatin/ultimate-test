@@ -54,7 +54,7 @@
             "ioValues": [
                 {
                     "name": "xDist",
-                    "ioValue": 10
+                    "ioValue": 1
                 },
                 {
                     "name": "yDist",
@@ -178,8 +178,8 @@
         {
             "atomType": "Nest",
             "name": "Nest",
-            "x": 0.7911993097497844,
-            "y": 0.7687687687687688,
+            "x": 0.7998274374460742,
+            "y": 0.7387387387387387,
             "uniqueID": 467577,
             "ioValues": []
         },
