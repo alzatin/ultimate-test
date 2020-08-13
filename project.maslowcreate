@@ -176,14 +176,6 @@
             ]
         },
         {
-            "atomType": "Nest",
-            "name": "Nest",
-            "x": 0.7929249352890423,
-            "y": 0.7417417417417418,
-            "uniqueID": 467577,
-            "ioValues": []
-        },
-        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9872367581365667,
@@ -253,13 +245,6 @@
             "ap2Primary": false,
             "ap1ID": 362998,
             "ap2ID": 535786
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": false,
-            "ap1ID": 535786,
-            "ap2ID": 467577
         },
         {
             "ap1Name": "geometry",
