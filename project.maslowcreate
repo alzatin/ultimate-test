@@ -181,7 +181,16 @@
             "x": 0.717687074829932,
             "y": 0.7478753541076487,
             "uniqueID": 886374,
-            "ioValues": []
+            "ioValues": [
+                {
+                    "name": "Distance",
+                    "ioValue": 0.3
+                },
+                {
+                    "name": "Curve Tolerance",
+                    "ioValue": 0.3
+                }
+            ]
         },
         {
             "atomType": "Output",
