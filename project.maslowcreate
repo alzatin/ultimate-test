@@ -185,28 +185,28 @@
             "readmeText": "Readme text here"
         },
         {
-            "atomType": "Nest",
-            "name": "Nest",
-            "x": 0.8052721088435375,
-            "y": 0.7507082152974505,
-            "uniqueID": 886374,
-            "ioValues": [
-                {
-                    "name": "Distance",
-                    "ioValue": 0.3
-                },
-                {
-                    "name": "Curve Tolerance",
-                    "ioValue": 0.3
-                }
-            ]
-        },
-        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9872367581365667,
             "y": 0.5,
             "ioValues": []
+        },
+        {
+            "atomType": "Nest",
+            "name": "Nest",
+            "x": 0.8061224489795918,
+            "y": 0.7620396600566572,
+            "uniqueID": 886374,
+            "ioValues": [
+                {
+                    "name": "spacing",
+                    "ioValue": 0.5
+                },
+                {
+                    "name": "curveTolerance",
+                    "ioValue": 0.3
+                }
+            ]
         }
     ],
     "allConnectors": [
