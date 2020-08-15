@@ -156,13 +156,13 @@
         {
             "atomType": "CutLayout",
             "name": "Cut Layout",
-            "x": 0.6568144499178982,
-            "y": 0.38526912181303113,
+            "x": 0.6576354679802956,
+            "y": 0.3824362606232295,
             "uniqueID": 535786,
             "ioValues": [
                 {
                     "name": "Spacing",
-                    "ioValue": 5
+                    "ioValue": 1
                 }
             ]
         },
@@ -226,7 +226,7 @@
             "ioValues": [
                 {
                     "name": "spacing",
-                    "ioValue": 0.4
+                    "ioValue": 1
                 },
                 {
                     "name": "curveTolerance",
