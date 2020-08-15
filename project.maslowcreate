@@ -185,17 +185,10 @@
             "readmeText": "Readme text here"
         },
         {
-            "atomType": "Output",
-            "name": "Output",
-            "x": 0.9872367581365667,
-            "y": 0.5,
-            "ioValues": []
-        },
-        {
             "atomType": "Nest",
             "name": "Nest",
-            "x": 0.8129251700680272,
-            "y": 0.8073654390934843,
+            "x": 0.8407224958949097,
+            "y": 0.6940509915014165,
             "uniqueID": 886374,
             "ioValues": [
                 {
@@ -207,6 +200,13 @@
                     "ioValue": 0.3
                 }
             ]
+        },
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9872367581365667,
+            "y": 0.5,
+            "ioValues": []
         }
     ],
     "allConnectors": [
