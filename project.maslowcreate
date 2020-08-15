@@ -31,8 +31,8 @@
         {
             "atomType": "Rectangle",
             "name": "Rectangle",
-            "x": 0.2484900776531493,
-            "y": 0.3213213213213213,
+            "x": 0.24876847290640394,
+            "y": 0.311614730878187,
             "uniqueID": 348766,
             "ioValues": [
                 {
@@ -54,7 +54,7 @@
             "ioValues": [
                 {
                     "name": "xDist",
-                    "ioValue": 1
+                    "ioValue": 10
                 },
                 {
                     "name": "yDist",
@@ -77,8 +77,8 @@
         {
             "atomType": "Extrude",
             "name": "Extrude",
-            "x": 0.31147540983606553,
-            "y": 0.46546546546546547,
+            "x": 0.3103448275862069,
+            "y": 0.4645892351274788,
             "uniqueID": 242107,
             "ioValues": [
                 {
@@ -123,8 +123,8 @@
         {
             "atomType": "CutLayout",
             "name": "Cut Layout",
-            "x": 0.6635030198446937,
-            "y": 0.3333333333333333,
+            "x": 0.6617405582922825,
+            "y": 0.3314447592067989,
             "uniqueID": 535786,
             "ioValues": [
                 {
@@ -187,13 +187,13 @@
         {
             "atomType": "Nest",
             "name": "Nest",
-            "x": 0.8448275862068966,
+            "x": 0.8374384236453202,
             "y": 0.6657223796033994,
             "uniqueID": 886374,
             "ioValues": [
                 {
                     "name": "spacing",
-                    "ioValue": 0.5
+                    "ioValue": 0.4
                 },
                 {
                     "name": "curveTolerance",
