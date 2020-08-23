@@ -226,7 +226,7 @@
             "ioValues": [
                 {
                     "name": "spacing",
-                    "ioValue": 0.5
+                    "ioValue": 0.2
                 },
                 {
                     "name": "curveTolerance",
