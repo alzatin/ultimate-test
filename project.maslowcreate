@@ -220,17 +220,17 @@
         {
             "atomType": "Nest",
             "name": "Nest",
-            "x": 0.825234441602728,
-            "y": 0.673076923076923,
+            "x": 0.823529411764706,
+            "y": 0.6666666666666666,
             "uniqueID": 886374,
             "ioValues": [
                 {
                     "name": "spacing",
-                    "ioValue": 1
+                    "ioValue": 0.5
                 },
                 {
                     "name": "curveTolerance",
-                    "ioValue": 0.3
+                    "ioValue": 0.5
                 }
             ]
         },
