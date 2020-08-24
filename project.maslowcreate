@@ -125,10 +125,18 @@
             "ioValues": []
         },
         {
+            "atomType": "Input",
+            "name": "height",
+            "x": 0.013333333333333334,
+            "y": 0.6432432432432432,
+            "uniqueID": 531442,
+            "ioValues": []
+        },
+        {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.5681444991789819,
-            "y": 0.26628895184135976,
+            "x": 0.56692242114237,
+            "y": 0.3463855421686747,
             "uniqueID": 362998,
             "ioValues": [
                 {
@@ -144,14 +152,6 @@
                     "ioValue": 10
                 }
             ]
-        },
-        {
-            "atomType": "Input",
-            "name": "height",
-            "x": 0.013333333333333334,
-            "y": 0.6432432432432432,
-            "uniqueID": 531442,
-            "ioValues": []
         },
         {
             "atomType": "CutLayout",
@@ -218,21 +218,13 @@
             "readmeText": "Readme text here"
         },
         {
-            "atomType": "Nest",
-            "name": "Nest",
-            "x": 0.8226768968456948,
-            "y": 0.6346153846153847,
-            "uniqueID": 886374,
-            "ioValues": [
-                {
-                    "name": "spacing",
-                    "ioValue": 0.5
-                },
-                {
-                    "name": "curveTolerance",
-                    "ioValue": 0.5
-                }
-            ]
+            "atomType": "Color",
+            "name": "Color",
+            "x": 0.59846547314578,
+            "y": 0.7891566265060241,
+            "uniqueID": 523575,
+            "ioValues": [],
+            "selectedColorIndex": "1"
         },
         {
             "atomType": "Output",
@@ -313,13 +305,6 @@
             "ap2ID": 362998
         },
         {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": false,
-            "ap1ID": 362998,
-            "ap2ID": 535786
-        },
-        {
             "ap1Name": "number or geometry",
             "ap2Name": "height",
             "ap2Primary": false,
@@ -330,15 +315,22 @@
             "ap1Name": "geometry",
             "ap2Name": "geometry",
             "ap2Primary": false,
-            "ap1ID": 535786,
-            "ap2ID": 827406
+            "ap1ID": 362998,
+            "ap2ID": 535786
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 362998,
+            "ap2ID": 523575
         },
         {
             "ap1Name": "geometry",
             "ap2Name": "geometry",
             "ap2Primary": false,
             "ap1ID": 535786,
-            "ap2ID": 886374
+            "ap2ID": 827406
         },
         {
             "ap1Name": "geometry",
