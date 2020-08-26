@@ -227,6 +227,23 @@
             "selectedColorIndex": "1"
         },
         {
+            "atomType": "Nest",
+            "name": "Nest",
+            "x": 0.8361204013377926,
+            "y": 0.6686746987951807,
+            "uniqueID": 668300,
+            "ioValues": [
+                {
+                    "name": "spacing",
+                    "ioValue": 0.5
+                },
+                {
+                    "name": "curveTolerance",
+                    "ioValue": 0.3
+                }
+            ]
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9872367581365667,
@@ -331,6 +348,13 @@
             "ap2Primary": false,
             "ap1ID": 535786,
             "ap2ID": 827406
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": false,
+            "ap1ID": 535786,
+            "ap2ID": 668300
         },
         {
             "ap1Name": "geometry",
