@@ -156,8 +156,8 @@
         {
             "atomType": "CutLayout",
             "name": "Cut Layout",
-            "x": 0.6576354679802956,
-            "y": 0.3824362606232295,
+            "x": 0.6872909698996655,
+            "y": 0.4246987951807229,
             "uniqueID": 535786,
             "ioValues": [
                 {
@@ -182,8 +182,8 @@
         {
             "atomType": "Svg",
             "name": "Svg",
-            "x": 0.8044217687074829,
-            "y": 0.3059490084985836,
+            "x": 0.802675585284281,
+            "y": 0.3072289156626506,
             "uniqueID": 827406,
             "ioValues": []
         },
@@ -209,15 +209,6 @@
             ]
         },
         {
-            "atomType": "Readme",
-            "name": "README",
-            "x": 0.6822660098522167,
-            "y": 0.6855524079320113,
-            "uniqueID": 930993,
-            "ioValues": [],
-            "readmeText": "Readme text here"
-        },
-        {
             "atomType": "Color",
             "name": "Color",
             "x": 0.6163682864450127,
@@ -229,8 +220,8 @@
         {
             "atomType": "Nest",
             "name": "Nest",
-            "x": 0.8361204013377926,
-            "y": 0.6686746987951807,
+            "x": 0.8177257525083613,
+            "y": 0.6144578313253012,
             "uniqueID": 668300,
             "ioValues": [
                 {
@@ -239,9 +230,18 @@
                 },
                 {
                     "name": "curveTolerance",
-                    "ioValue": 0.3
+                    "ioValue": 0
                 }
             ]
+        },
+        {
+            "atomType": "Readme",
+            "name": "README",
+            "x": 0.7148829431438127,
+            "y": 0.753012048192771,
+            "uniqueID": 930993,
+            "ioValues": [],
+            "readmeText": "Readme text here"
         },
         {
             "atomType": "Output",
