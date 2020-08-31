@@ -209,19 +209,10 @@
             ]
         },
         {
-            "atomType": "Color",
-            "name": "Color",
-            "x": 0.6163682864450127,
-            "y": 0.7981927710843374,
-            "uniqueID": 523575,
-            "ioValues": [],
-            "selectedColorIndex": "1"
-        },
-        {
             "atomType": "Nest",
             "name": "Nest",
-            "x": 0.8125,
-            "y": 0.608433734939759,
+            "x": 0.8116157855547281,
+            "y": 0.5963855421686747,
             "uniqueID": 668300,
             "ioValues": [
                 {
@@ -233,6 +224,15 @@
                     "ioValue": 0
                 }
             ]
+        },
+        {
+            "atomType": "Color",
+            "name": "Color",
+            "x": 0.6163682864450127,
+            "y": 0.7981927710843374,
+            "uniqueID": 523575,
+            "ioValues": [],
+            "selectedColorIndex": "1"
         },
         {
             "atomType": "Readme",
